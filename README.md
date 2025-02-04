@@ -1,7 +1,7 @@
 # 🛒 Comparador de Precios de Supermercados
 
 ## 📌 Descripción del Proyecto
-Este proyecto proporciona un comparador de precios de productos de supermercado, específicamente de Mercadona, Alcampo y Día. Permite buscar un producto concreto a través de una barra de búsqueda e incluye opciones de filtrado como:
+Este proyecto refleja un **comparador de precios de productos de supermercado**, específicamente de Mercadona, Alcampo y Día, además de ofrecer la posibilidad de **buscar un producto concreto** con las siguientes opciones de filtrado:
 
 - Ordenar productos en orden ascendente/descendente por precio.
 - Mostrar productos de uno o varios supermercados específicos.
