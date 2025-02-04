@@ -14,6 +14,7 @@ Este proyecto refleja un **comparador de precios de productos de supermercado**,
 - `config.py` - Archivo de configuración de la aplicación.
 - `.flaskenv` - Archivo que almacena las variables de entorno utilizadas por Flask.
 - `app.db` - Base de datos local ya cargada con los datos de los productos.
+- `requirements.txt` - Archivo de texto con los paquetes necesarios a instalar dentro del entorno virtual.
 
 ## ⚙️ Instalación y Ejecución
 
