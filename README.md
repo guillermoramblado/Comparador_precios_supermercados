@@ -53,5 +53,19 @@ La aplicación estará disponible en la URL que aparece en la terminal. 🌍
 
 ---
 
+## Ejemplos Visuales de la Web
+
+### Home
+
+[![image.png](https://i.postimg.cc/26bvjMb3/image.png)](https://postimg.cc/tZb72rzH)
+
+### Búsqueda de producto
+
+[![image2.png](https://i.postimg.cc/bNQ5NFk6/image.png)](https://postimg.cc/SJxdgdZ8)
+
+### Filtrado de producto
+
+[![image3.png](https://i.postimg.cc/PqNKZ6vn/image.png)](https://postimg.cc/p9bDMJBs)
+
 💡 **¡Espero que este comparador de precios sea de gran utilidad!** 🎯🔥 🚀  
 
